@@ -1,1 +1,2 @@
 # MySlideMenuDemo
+一个简单的侧滑菜单+滑动删除,自定义view利用ViewDragHelper实现view的拖拽移动,类似于qq的侧滑菜单
